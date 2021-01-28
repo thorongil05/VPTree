@@ -1,6 +1,6 @@
 # VPTree
 
-This is a python implementation of the Vantage Point Tree.
+This is a python implementation of the Vantage Point Tree index.
 
 ## Definition
 The Vantage Point Tree is an index based on exact similarity search. The aim is to search an object faster than the sequential scanning.
